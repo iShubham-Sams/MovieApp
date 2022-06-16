@@ -11,7 +11,7 @@ const Header=()=>{
                 <nav className="flexSB">
                 
                     <div className="logo">
-                        <img src="./image/logo.png" alt="this is logo of movies app" />
+                        <img src="./images/logo.png" alt="this is logo of movies app" />
                     </div>
                     <ul className={mobile?"navMenu-list":"flexSB"}>
                        <li> <Link to='/'>Home</Link></li>
